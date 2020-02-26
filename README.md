@@ -21,6 +21,7 @@ We will be using an Arduino Nano today as our microprocessor. It is a low cost, 
 
 ### Reference Links (look back on this at home!)
 #### Arduino Reference
+Arduino has changed the game of how we make robots in the past 10 (!) years. They have open sourced (made the fundamental building blocks of their products freely available to anybody!!!) hardware in a way no one really had before. For us this means there is a HUGE community of passionate people supporting the development of cool and fun projects with Arduino. These links are a great way to start looking into Arduino but you can also google any question you have and find a world of answers.
 * Here is a link to download the Arduino development enviroment at home: https://www.arduino.cc/en/Main/Software
 * Here is gita there reference link to how to use Arduino functions: https://www.arduino.cc/reference/en/
 
