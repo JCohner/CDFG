@@ -6,6 +6,12 @@ We're excited to get to play with some robotics with all of ya'll over the next 
 ## Resources
 We will be using an Arduino Nano today as our microprocessor. It is a low cost, super functional and easy to interface 'mini computer'. I like to think of it as the 'brain' of my project. The awesome thing about Arduino is that millions of people like you and me use it and there is almost infinite documentation online about how to do so (see **Reference Links** below)
 
+## Setup
+1. Plug your board into your computer
+2. Open Arduino IDE
+	1. Under Tools>Board> select "Arduino Nano"
+	2. Under Tools>Port> select the one that says Arduino
+
 ## Challenges 
 
 ### LED | Button Blink
