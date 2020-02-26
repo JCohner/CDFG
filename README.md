@@ -11,6 +11,7 @@ We will be using an Arduino Nano today as our microprocessor. It is a low cost, 
 2. Open Arduino IDE
 	1. Under Tools>Board> select "Arduino Nano"
 	2. Under Tools>Port> select the one that says Arduino
+	3. Under Tools>Processor> select Atmega328p (old bootloader)
 
 ## Challenges 
 
