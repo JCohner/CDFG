@@ -28,10 +28,30 @@ We will be using an Arduino Nano today as our microprocessor. It is a low cost, 
 	* HINT: the logical and symbol in the c programming language looks like this : &&
 
 ### LED | Potentiometer
+![image](media/if_noLED.png)
+1. Wire up the potentiometer as shown in the image above 
+2. Up to you!
+	* maybe light your LED up proportional to how much you twist the knob?
+	* have the LED turn on when you twist the knob a certain amount
 
 ### LED | Potentiometer | Button AND
+1. Now see if you can make a logical combination of both the LED and potentiometer and button!
+2. Maybe there's only a secret combination of button presses and potentiometer values that will light up your LED
+
+Wow! Wouldn't it be easier if we could see what our Arduino was thinking.... 
 
 ### Serial Write!
+1. A great library for having your Arduino talk back to your computer
+
+2. Check out the awesome documentation 
+	* https://www.arduino.cc/reference/en/language/functions/communication/serial/
+	* or in the serial_hello_world folder
+	* or search the internet for answers!
+
+### Serial Read and more
+1. Now what if we want to read in information from the computer...
+2. Check out how this piece of documentation uses Serial.Available() to help with that:
+	https://www.arduino.cc/reference/en/language/functions/communication/serial/available/
 
 
 ### Reference Links (look back on this at home!)
