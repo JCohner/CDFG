@@ -16,8 +16,16 @@ We will be using an Arduino Nano today as our microprocessor. It is a low cost, 
 ## Challenges 
 
 ### LED | Button Blink
+![image](media/button.png)
+1. Wire up your LED and button as shown here!
+2. Talk through the code with your partner
+3. Run it!
 
 ### LED | Button AND
+1. Wire up another button (look at how the first is wired)
+2. Write code so that your LED lights up when button_1 AND (&&) button_2 are pushed
+	* HINT: you'll probably have to definen another input
+	* HINT: the logical and symbol in the c programming language looks like this : &&
 
 ### LED | Potentiometer
 
