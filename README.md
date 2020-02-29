@@ -12,6 +12,9 @@ We will be using an Arduino Nano today as our microprocessor. It is a low cost, 
 	1. Under Tools>Board> select "Arduino Nano"
 	2. Under Tools>Port> select the one that says Arduino
 	3. Under Tools>Processor> select Atmega328p (old bootloader)
+3. [UPDATE POST CDFG 2020] Thank you all for being so awesome! Hoepfully you want to continue working on this at home, to do so you need to install the driver the lets your computer talk to this specific Arduino:
+http://www.rexqualis.com/download/, that can be found here and downloaded when you click the "REXQualis Nano Instruction and CH340 Driver"
+4. If yall have literally any questions feel free to contact we at JoshC@u.northwestern.edu 
 
 ## Challenges 
 
